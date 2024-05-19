@@ -34,3 +34,5 @@
 <a href="https://www.jetbrains.com/youtrack/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/2048px-YouTrack_Icon.svg.png" alt="postman" width="30" height="30"/> </a>
 
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muratsaribas&layout=compact)
